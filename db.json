@@ -1,0 +1,89 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Veggie Stew",
+      "ingredients": [
+        "1 Carrot",
+        "1 Leek",
+        "200g Tofu",
+        "300ml Veg stock"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Place the carrot, leek and tofu in a large bowl. Add the stock and mix well. 2. Add the rest of the ingredients and mix well. 3. Place the mixture in a large bowl and cover with a lid. 4. Place the lid on the oven and cook for 40 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "45 minutes"
+    },
+    {
+      "id": "2",
+      "title": "Veggie Pizza",
+      "ingredients": [
+        "1 Base",
+        "Tomata pasata",
+        "1 Green pepper",
+        "100g Mushrooms"
+      ],
+      "method": "1. Pre-heat the oven to 200C/3C/gas 5. Add the pasata, green pepper and mushrooms to the base. Place the lid on the oven and cook for 30 minutes. 5. Serve with a slaw of your choice",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "id": "3",
+      "title": "Greek Salad",
+      "ingredients": [
+        "1 Onion",
+        "1 Block of Feta",
+        "Olives",
+        "Tomatoes",
+        "Olive Oil"
+      ],
+      "method": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Esse minima ex rem quis similique eum ratione quaerat, voluptas molestias ut repudiandae delectus voluptates. Eius esse at tenetur ab accusamus excepturi?",
+      "cookingTime": "35 minutes"
+    },
+    {
+      "title": "Homemade Hot Chocolate",
+      "ingredients": [
+        "Cocoa Powder",
+        "Sugar",
+        "Milk",
+        "Vanilla Extract",
+        "Chocolate Chips"
+      ],
+      "method": "This recipe is made with a combination of cocoa powder and chocolate chips.\nPlace the milk of your choice in a saucepan over medium-low heat. Using milk instead of water, makes this hot chocolate extra creamy and flavorful. Whisk in cocoa powder and sugar, and heat until warm.Once the milk is warm, add chocolate chips, whisking until they melt into the milk.Add a splash of vanilla extract.Serve immediately, topped with your favorite garnishes: marshmallows, whipped cream, chopped chocolate, crushed candy canes or more.",
+      "cookingTime": "10 minutes",
+      "id": "bmrOCY1"
+    },
+    {
+      "title": "Mexican Corn Dip",
+      "ingredients": [
+        "butter",
+        "corn",
+        "minced jalapenos",
+        "clove garlic",
+        "lime juice",
+        "mayonnaise",
+        "chilli powder",
+        "crumbled cotija cheese",
+        "cilantro"
+      ],
+      "method": "Melt butter in a 10-inch skillet over medium-high heat. Add the corn and chopped jalapeños and cook, stirring occasionally until slightly charred, about 8 to 10 minutes.\nTransfer the corn to a medium-sized bowl and add minced garlic, lime juice, mayonnaise, chili powder, crumbled cotija cheese, and cilantro. Stir to combine.\nTransfer the corn dip to a small bowl and enjoy with tortilla chips.",
+      "cookingTime": "10 minutes",
+      "id": "DJHFxSX"
+    },
+    {
+      "title": "Yougurt Crunch Pudding ",
+      "ingredients": [
+        "hung yogurt",
+        "fresh rose water",
+        "organic honey",
+        "grapes",
+        "strawberries",
+        "pomegranate kernels",
+        "butter",
+        "A pinch of ground cinnamon",
+        "finely ground cane sugar",
+        "1 cup dried breadcrumbs"
+      ],
+      "method": "Put together the cane sugar, breadcrumbs and a pinch of cinnamon with butter in a bowl and rub between your fingers. Lay out the dry mixture in a flat dish as the base of the pudding. In a bowl mix the hung yogurt, honey, rose water, chopped strawberries, chopped grapes and lather it on the base, topping it finally with crushed pistachios and pomegranates, and allow to set in the fridge.",
+      "cookingTime": "25 minutes",
+      "id": "XhZSWMb"
+    }
+  ]
+}
